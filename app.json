@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "tinder-2",
+    "name": "Tinder",
     "slug": "tinder-2",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "tinder.exponent"
     },
     "web": {
       "favicon": "./assets/favicon.png"
